@@ -262,6 +262,18 @@ footer
     border-radius: 10px;
     cursor: pointer;
 }
+.btn2
+{
+    width: 100%;
+    padding: 6px 20px;
+    border: 2px solid whitesmoke;
+    background-color: brown;
+    color: whitesmoke;
+    margin: 17px;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
 
 .center
 {
